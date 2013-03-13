@@ -1,0 +1,1 @@
+Scripts to check and set various Sharing settings.

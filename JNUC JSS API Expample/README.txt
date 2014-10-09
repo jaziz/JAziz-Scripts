@@ -1,0 +1,1 @@
+This script adds users to the scope of a mobile device configuration profile in your JSS.
